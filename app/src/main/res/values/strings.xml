@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_image">news_image</string>
+    <string name="test">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="newsapp">NewsApp</string>
+    <string name="news">NEWS</string>
+    <string name="title">Title</string>
+    <string name="edit_text_title">Tytuł</string>
+    <string name="edit_dialog_description">Treść</string>
+    <string name="apply">Zatwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="alert_dialog">alert_dialog</string>
+    <string name="edit_box_url">URL</string>
+    <string name="count">456</string>
+    <string name="edit">Edytuj</string>
+</resources>
